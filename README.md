@@ -66,7 +66,7 @@
 
 #### Q10. What does this image illustrate?
 
-![Machine Learning Q10](images/machine-learning_Q10.jpg)
+![Machine Learning Q10](machine-learning_Q10.jpg)
 
 - [x] a decision tree
 - [ ] reinforcement learning
@@ -96,7 +96,7 @@
 
 #### Q14. You work for an ice cream shop and created the chart below, which shows the relationship between the outside temperature and ice cream sales. What is the best description of this chart?
 
-![Machine Learning Q14](images/machine-learning_Q14.jpg)
+![Machine Learning Q14](machine-learning_Q14.jpg)
 
 - [x] It is a linear regression chart.
 - [ ] It is a supervised trendline chart.
